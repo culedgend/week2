@@ -1,0 +1,55 @@
+h1{
+    color: red;
+}
+span{
+    color: blue;
+}
+div{
+    color: cornflowerblue;
+}
+.a{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: larger;
+    font-style: oblique;
+}
+.b{
+    color: green;
+    padding-left: 50px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.c{
+    color: red;
+    font-weight: 900;
+    font-size: xx-large;
+   text-align: center;
+}
+.d{
+    color: purple;
+    font-weight: bolder;
+    font-size: 30px;
+   text-align: right;
+}
+#e{
+   color: rgb(255, 0, 136);
+   font-size: x-large;
+   font-family: fantasy;
+   background-color: rgb(127, 182, 255);
+}
+#caleb{
+    text-align: right;
+    background-color: black;
+    word-spacing: 10px;
+}
+#udeo{
+    text-align: right;
+    word-spacing: 10px;
+    color: white;
+}
+#legend{
+    text-align: right;
+    word-spacing: 10px;
+    color: black;
+}
